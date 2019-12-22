@@ -20,7 +20,7 @@ public class JobMain {
     //zookeeper端口
     private static final int ZOOKEEPER_PORT = 2181;
     //zookeeper链接字符串 localhost:2181
-    private static final String ZOOKEEPER_CONNECTION_STRING = "192.144.225.107:" + ZOOKEEPER_PORT;
+    private static final String ZOOKEEPER_CONNECTION_STRING = "localhost:" + ZOOKEEPER_PORT;
     //定时任务命名空间
     private static final String JOB_NAMESPACE = "elastic-job-example-java";
 
