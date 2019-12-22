@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>elastic-job-quickstart</module>
+        <module>elastic-job-springboot</module>
     </modules>
     <packaging>pom</packaging>
     <description>elastic-job</description>
